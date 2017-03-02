@@ -241,6 +241,7 @@ function setorderdatepaymentAction(){
 
 /**
  * Экоспорт в XML
+ *
  */
 function createxmlAction(){
    $rsProducts = getProducts();

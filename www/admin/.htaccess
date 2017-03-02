@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName admin
+AuthUserFile /openserver/domains/afanshop/pwdaccess
+require valid-user
